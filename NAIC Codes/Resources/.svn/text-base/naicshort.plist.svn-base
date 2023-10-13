@@ -1,0 +1,1522 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>11</key>
+	<dict>
+		<key>children</key>
+		<array>
+			<dict>
+				<key>children</key>
+				<array>
+					<dict>
+						<key>children</key>
+						<array>
+							<dict>
+								<key>children</key>
+								<array>
+									<dict>
+										<key>children</key>
+										<array/>
+										<key>naicnum</key>
+										<string>111110</string>
+										<key>title</key>
+										<string>Soybean Farming</string>
+									</dict>
+								</array>
+								<key>naicnum</key>
+								<string>11111</string>
+								<key>title</key>
+								<string>Soybean Farming</string>
+							</dict>
+							<dict>
+								<key>children</key>
+								<array>
+									<dict>
+										<key>children</key>
+										<array/>
+										<key>naicnum</key>
+										<string>111120</string>
+										<key>title</key>
+										<string>Oilseed (except Soybean) Farming</string>
+									</dict>
+								</array>
+								<key>naicnum</key>
+								<string>11112</string>
+								<key>title</key>
+								<string>Oilseed (except Soybean) Farming</string>
+							</dict>
+							<dict>
+								<key>children</key>
+								<array>
+									<dict>
+										<key>children</key>
+										<array/>
+										<key>naicnum</key>
+										<string>111130</string>
+										<key>title</key>
+										<string>Dry Pea and Bean Farming</string>
+									</dict>
+								</array>
+								<key>naicnum</key>
+								<string>11113</string>
+								<key>title</key>
+								<string>Dry Pea and Bean Farming</string>
+							</dict>
+							<dict>
+								<key>children</key>
+								<array>
+									<dict>
+										<key>children</key>
+										<array/>
+										<key>naicnum</key>
+										<string>111140</string>
+										<key>title</key>
+										<string>Wheat Farming</string>
+									</dict>
+								</array>
+								<key>naicnum</key>
+								<string>11114</string>
+								<key>title</key>
+								<string>Wheat Farming</string>
+							</dict>
+							<dict>
+								<key>children</key>
+								<array>
+									<dict>
+										<key>children</key>
+										<array/>
+										<key>naicnum</key>
+										<string>111150</string>
+										<key>title</key>
+										<string>Corn Farming</string>
+									</dict>
+								</array>
+								<key>naicnum</key>
+								<string>11115</string>
+								<key>title</key>
+								<string>Corn Farming</string>
+							</dict>
+							<dict>
+								<key>children</key>
+								<array>
+									<dict>
+										<key>children</key>
+										<array/>
+										<key>naicnum</key>
+										<string>111160</string>
+										<key>title</key>
+										<string>Rice Farming</string>
+									</dict>
+								</array>
+								<key>naicnum</key>
+								<string>11116</string>
+								<key>title</key>
+								<string>Rice Farming</string>
+							</dict>
+							<dict>
+								<key>children</key>
+								<array>
+									<dict>
+										<key>children</key>
+										<array/>
+										<key>naicnum</key>
+										<string>111191</string>
+										<key>title</key>
+										<string>Oilseed and Grain Combination Farming</string>
+									</dict>
+									<dict>
+										<key>children</key>
+										<array/>
+										<key>naicnum</key>
+										<string>111199</string>
+										<key>title</key>
+										<string>All Other Grain Farming</string>
+									</dict>
+								</array>
+								<key>naicnum</key>
+								<string>11119</string>
+								<key>title</key>
+								<string>Other Grain Farming</string>
+							</dict>
+						</array>
+						<key>naicnum</key>
+						<string>1111</string>
+						<key>title</key>
+						<string>Oilseed and Grain Farming</string>
+					</dict>
+					<dict>
+						<key>children</key>
+						<array>
+							<dict>
+								<key>children</key>
+								<array>
+									<dict>
+										<key>children</key>
+										<array/>
+										<key>naicnum</key>
+										<string>111211</string>
+										<key>title</key>
+										<string>Potato Farming</string>
+									</dict>
+									<dict>
+										<key>children</key>
+										<array/>
+										<key>naicnum</key>
+										<string>111219</string>
+										<key>title</key>
+										<string>Other Vegetable (except Potato) and Melon Farming</string>
+									</dict>
+								</array>
+								<key>naicnum</key>
+								<string>11121</string>
+								<key>title</key>
+								<string>Vegetable and Melon Farming</string>
+							</dict>
+						</array>
+						<key>naicnum</key>
+						<string>1112</string>
+						<key>title</key>
+						<string>Vegetable and Melon Farming</string>
+					</dict>
+					<dict>
+						<key>children</key>
+						<array>
+							<dict>
+								<key>children</key>
+								<array>
+									<dict>
+										<key>children</key>
+										<array/>
+										<key>naicnum</key>
+										<string>111310</string>
+										<key>title</key>
+										<string>Orange Groves</string>
+									</dict>
+								</array>
+								<key>naicnum</key>
+								<string>11131</string>
+								<key>title</key>
+								<string>Orange Groves</string>
+							</dict>
+							<dict>
+								<key>children</key>
+								<array>
+									<dict>
+										<key>children</key>
+										<array/>
+										<key>naicnum</key>
+										<string>111320</string>
+										<key>title</key>
+										<string>Citrus (except Orange) Groves</string>
+									</dict>
+								</array>
+								<key>naicnum</key>
+								<string>11132</string>
+								<key>title</key>
+								<string>Citrus (except Orange) Groves</string>
+							</dict>
+							<dict>
+								<key>children</key>
+								<array>
+									<dict>
+										<key>children</key>
+										<array/>
+										<key>naicnum</key>
+										<string>111331</string>
+										<key>title</key>
+										<string>Apple Orchards</string>
+									</dict>
+									<dict>
+										<key>children</key>
+										<array/>
+										<key>naicnum</key>
+										<string>111332</string>
+										<key>title</key>
+										<string>Grape Vineyards</string>
+									</dict>
+									<dict>
+										<key>children</key>
+										<array/>
+										<key>naicnum</key>
+										<string>111333</string>
+										<key>title</key>
+										<string>Strawberry Farming</string>
+									</dict>
+									<dict>
+										<key>children</key>
+										<array/>
+										<key>naicnum</key>
+										<string>111334</string>
+										<key>title</key>
+										<string>Berry (except Strawberry) Farming</string>
+									</dict>
+									<dict>
+										<key>children</key>
+										<array/>
+										<key>naicnum</key>
+										<string>111335</string>
+										<key>title</key>
+										<string>Tree Nut Farming</string>
+									</dict>
+									<dict>
+										<key>children</key>
+										<array/>
+										<key>naicnum</key>
+										<string>111336</string>
+										<key>title</key>
+										<string>Fruit and Tree Nut Combination Farming</string>
+									</dict>
+									<dict>
+										<key>children</key>
+										<array/>
+										<key>naicnum</key>
+										<string>111339</string>
+										<key>title</key>
+										<string>Other Noncitrus Fruit Farming</string>
+									</dict>
+								</array>
+								<key>naicnum</key>
+								<string>11133</string>
+								<key>title</key>
+								<string>Noncitrus Fruit and Tree Nut Farming</string>
+							</dict>
+						</array>
+						<key>naicnum</key>
+						<string>1113</string>
+						<key>title</key>
+						<string>Fruit and Tree Nut Farming</string>
+					</dict>
+					<dict>
+						<key>children</key>
+						<array>
+							<dict>
+								<key>children</key>
+								<array>
+									<dict>
+										<key>children</key>
+										<array/>
+										<key>naicnum</key>
+										<string>111411</string>
+										<key>title</key>
+										<string>Mushroom Production</string>
+									</dict>
+									<dict>
+										<key>children</key>
+										<array/>
+										<key>naicnum</key>
+										<string>111419</string>
+										<key>title</key>
+										<string>Other Food Crops Grown Under Cover</string>
+									</dict>
+								</array>
+								<key>naicnum</key>
+								<string>11141</string>
+								<key>title</key>
+								<string>Food Crops Grown Under Cover</string>
+							</dict>
+							<dict>
+								<key>children</key>
+								<array>
+									<dict>
+										<key>children</key>
+										<array/>
+										<key>naicnum</key>
+										<string>111421</string>
+										<key>title</key>
+										<string>Nursery and Tree Production</string>
+									</dict>
+									<dict>
+										<key>children</key>
+										<array/>
+										<key>naicnum</key>
+										<string>111422</string>
+										<key>title</key>
+										<string>Floriculture Production</string>
+									</dict>
+								</array>
+								<key>naicnum</key>
+								<string>11142</string>
+								<key>title</key>
+								<string>Nursery and Floriculture Production</string>
+							</dict>
+						</array>
+						<key>naicnum</key>
+						<string>1114</string>
+						<key>title</key>
+						<string>Greenhouse, Nursery, and Floriculture Production</string>
+					</dict>
+					<dict>
+						<key>children</key>
+						<array>
+							<dict>
+								<key>children</key>
+								<array>
+									<dict>
+										<key>children</key>
+										<array/>
+										<key>naicnum</key>
+										<string>111910</string>
+										<key>title</key>
+										<string>Tobacco Farming</string>
+									</dict>
+								</array>
+								<key>naicnum</key>
+								<string>11191</string>
+								<key>title</key>
+								<string>Tobacco Farming</string>
+							</dict>
+							<dict>
+								<key>children</key>
+								<array>
+									<dict>
+										<key>children</key>
+										<array/>
+										<key>naicnum</key>
+										<string>111920</string>
+										<key>title</key>
+										<string>Cotton Farming</string>
+									</dict>
+								</array>
+								<key>naicnum</key>
+								<string>11192</string>
+								<key>title</key>
+								<string>Cotton Farming</string>
+							</dict>
+							<dict>
+								<key>children</key>
+								<array>
+									<dict>
+										<key>children</key>
+										<array/>
+										<key>naicnum</key>
+										<string>111930</string>
+										<key>title</key>
+										<string>Sugarcane Farming</string>
+									</dict>
+								</array>
+								<key>naicnum</key>
+								<string>11193</string>
+								<key>title</key>
+								<string>Sugarcane Farming</string>
+							</dict>
+							<dict>
+								<key>children</key>
+								<array>
+									<dict>
+										<key>children</key>
+										<array/>
+										<key>naicnum</key>
+										<string>111940</string>
+										<key>title</key>
+										<string>Hay Farming</string>
+									</dict>
+								</array>
+								<key>naicnum</key>
+								<string>11194</string>
+								<key>title</key>
+								<string>Hay Farming</string>
+							</dict>
+							<dict>
+								<key>children</key>
+								<array>
+									<dict>
+										<key>children</key>
+										<array/>
+										<key>naicnum</key>
+										<string>111991</string>
+										<key>title</key>
+										<string>Sugar Beet Farming</string>
+									</dict>
+									<dict>
+										<key>children</key>
+										<array/>
+										<key>naicnum</key>
+										<string>111992</string>
+										<key>title</key>
+										<string>Peanut Farming</string>
+									</dict>
+									<dict>
+										<key>children</key>
+										<array/>
+										<key>naicnum</key>
+										<string>111998</string>
+										<key>title</key>
+										<string>All Other Miscellaneous Crop Farming</string>
+									</dict>
+								</array>
+								<key>naicnum</key>
+								<string>11199</string>
+								<key>title</key>
+								<string>All Other Crop Farming</string>
+							</dict>
+						</array>
+						<key>naicnum</key>
+						<string>1119</string>
+						<key>title</key>
+						<string>Other Crop Farming</string>
+					</dict>
+				</array>
+				<key>naicnum</key>
+				<string>111</string>
+				<key>title</key>
+				<string>Crop Production</string>
+			</dict>
+			<dict>
+				<key>children</key>
+				<array>
+					<dict>
+						<key>children</key>
+						<array>
+							<dict>
+								<key>children</key>
+								<array>
+									<dict>
+										<key>children</key>
+										<array/>
+										<key>naicnum</key>
+										<string>112111</string>
+										<key>title</key>
+										<string>Beef Cattle Ranching and Farming</string>
+									</dict>
+									<dict>
+										<key>children</key>
+										<array/>
+										<key>naicnum</key>
+										<string>112112</string>
+										<key>title</key>
+										<string>Cattle Feedlots</string>
+									</dict>
+								</array>
+								<key>naicnum</key>
+								<string>11211</string>
+								<key>title</key>
+								<string>Beef Cattle Ranching and Farming, including Feedlots</string>
+							</dict>
+							<dict>
+								<key>children</key>
+								<array>
+									<dict>
+										<key>children</key>
+										<array/>
+										<key>naicnum</key>
+										<string>112120</string>
+										<key>title</key>
+										<string>Dairy Cattle and Milk Production</string>
+									</dict>
+								</array>
+								<key>naicnum</key>
+								<string>11212</string>
+								<key>title</key>
+								<string>Dairy Cattle and Milk Production</string>
+							</dict>
+							<dict>
+								<key>children</key>
+								<array>
+									<dict>
+										<key>children</key>
+										<array/>
+										<key>naicnum</key>
+										<string>112130</string>
+										<key>title</key>
+										<string>Dual-Purpose Cattle Ranching and Farming</string>
+									</dict>
+								</array>
+								<key>naicnum</key>
+								<string>11213</string>
+								<key>title</key>
+								<string>Dual-Purpose Cattle Ranching and Farming</string>
+							</dict>
+						</array>
+						<key>naicnum</key>
+						<string>1121</string>
+						<key>title</key>
+						<string>Cattle Ranching and Farming</string>
+					</dict>
+					<dict>
+						<key>children</key>
+						<array>
+							<dict>
+								<key>children</key>
+								<array>
+									<dict>
+										<key>children</key>
+										<array/>
+										<key>naicnum</key>
+										<string>112210</string>
+										<key>title</key>
+										<string>Hog and Pig Farming</string>
+									</dict>
+								</array>
+								<key>naicnum</key>
+								<string>11221</string>
+								<key>title</key>
+								<string>Hog and Pig Farming</string>
+							</dict>
+						</array>
+						<key>naicnum</key>
+						<string>1122</string>
+						<key>title</key>
+						<string>Hog and Pig Farming</string>
+					</dict>
+					<dict>
+						<key>children</key>
+						<array>
+							<dict>
+								<key>children</key>
+								<array>
+									<dict>
+										<key>children</key>
+										<array/>
+										<key>naicnum</key>
+										<string>112310</string>
+										<key>title</key>
+										<string>Chicken Egg Production</string>
+									</dict>
+								</array>
+								<key>naicnum</key>
+								<string>11231</string>
+								<key>title</key>
+								<string>Chicken Egg Production</string>
+							</dict>
+							<dict>
+								<key>children</key>
+								<array>
+									<dict>
+										<key>children</key>
+										<array/>
+										<key>naicnum</key>
+										<string>112320</string>
+										<key>title</key>
+										<string>Broilers and Other Meat Type Chicken Production</string>
+									</dict>
+								</array>
+								<key>naicnum</key>
+								<string>11232</string>
+								<key>title</key>
+								<string>Broilers and Other Meat Type Chicken Production</string>
+							</dict>
+							<dict>
+								<key>children</key>
+								<array>
+									<dict>
+										<key>children</key>
+										<array/>
+										<key>naicnum</key>
+										<string>112330</string>
+										<key>title</key>
+										<string>Turkey Production</string>
+									</dict>
+								</array>
+								<key>naicnum</key>
+								<string>11233</string>
+								<key>title</key>
+								<string>Turkey Production</string>
+							</dict>
+							<dict>
+								<key>children</key>
+								<array>
+									<dict>
+										<key>children</key>
+										<array/>
+										<key>naicnum</key>
+										<string>112340</string>
+										<key>title</key>
+										<string>Poultry Hatcheries</string>
+									</dict>
+								</array>
+								<key>naicnum</key>
+								<string>11234</string>
+								<key>title</key>
+								<string>Poultry Hatcheries</string>
+							</dict>
+							<dict>
+								<key>children</key>
+								<array>
+									<dict>
+										<key>children</key>
+										<array/>
+										<key>naicnum</key>
+										<string>112390</string>
+										<key>title</key>
+										<string>Other Poultry Production</string>
+									</dict>
+								</array>
+								<key>naicnum</key>
+								<string>11239</string>
+								<key>title</key>
+								<string>Other Poultry Production</string>
+							</dict>
+						</array>
+						<key>naicnum</key>
+						<string>1123</string>
+						<key>title</key>
+						<string>Poultry and Egg Production</string>
+					</dict>
+					<dict>
+						<key>children</key>
+						<array>
+							<dict>
+								<key>children</key>
+								<array>
+									<dict>
+										<key>children</key>
+										<array/>
+										<key>naicnum</key>
+										<string>112410</string>
+										<key>title</key>
+										<string>Sheep Farming</string>
+									</dict>
+								</array>
+								<key>naicnum</key>
+								<string>11241</string>
+								<key>title</key>
+								<string>Sheep Farming</string>
+							</dict>
+							<dict>
+								<key>children</key>
+								<array>
+									<dict>
+										<key>children</key>
+										<array/>
+										<key>naicnum</key>
+										<string>112420</string>
+										<key>title</key>
+										<string>Goat Farming</string>
+									</dict>
+								</array>
+								<key>naicnum</key>
+								<string>11242</string>
+								<key>title</key>
+								<string>Goat Farming</string>
+							</dict>
+						</array>
+						<key>naicnum</key>
+						<string>1124</string>
+						<key>title</key>
+						<string>Sheep and Goat Farming</string>
+					</dict>
+					<dict>
+						<key>children</key>
+						<array>
+							<dict>
+								<key>children</key>
+								<array>
+									<dict>
+										<key>children</key>
+										<array/>
+										<key>naicnum</key>
+										<string>112511</string>
+										<key>title</key>
+										<string>Finfish Farming and Fish Hatcheries</string>
+									</dict>
+									<dict>
+										<key>children</key>
+										<array/>
+										<key>naicnum</key>
+										<string>112512</string>
+										<key>title</key>
+										<string>Shellfish Farming</string>
+									</dict>
+									<dict>
+										<key>children</key>
+										<array/>
+										<key>naicnum</key>
+										<string>112519</string>
+										<key>title</key>
+										<string>Other Aquaculture</string>
+									</dict>
+								</array>
+								<key>naicnum</key>
+								<string>11251</string>
+								<key>title</key>
+								<string>Aquaculture</string>
+							</dict>
+						</array>
+						<key>naicnum</key>
+						<string>1125</string>
+						<key>title</key>
+						<string>Aquaculture</string>
+					</dict>
+					<dict>
+						<key>children</key>
+						<array>
+							<dict>
+								<key>children</key>
+								<array>
+									<dict>
+										<key>children</key>
+										<array/>
+										<key>naicnum</key>
+										<string>112910</string>
+										<key>title</key>
+										<string>Apiculture</string>
+									</dict>
+								</array>
+								<key>naicnum</key>
+								<string>11291</string>
+								<key>title</key>
+								<string>Apiculture</string>
+							</dict>
+							<dict>
+								<key>children</key>
+								<array>
+									<dict>
+										<key>children</key>
+										<array/>
+										<key>naicnum</key>
+										<string>112920</string>
+										<key>title</key>
+										<string>Horses and Other Equine Production</string>
+									</dict>
+								</array>
+								<key>naicnum</key>
+								<string>11292</string>
+								<key>title</key>
+								<string>Horses and Other Equine Production</string>
+							</dict>
+							<dict>
+								<key>children</key>
+								<array>
+									<dict>
+										<key>children</key>
+										<array/>
+										<key>naicnum</key>
+										<string>112930</string>
+										<key>title</key>
+										<string>Fur-Bearing Animal and Rabbit Production</string>
+									</dict>
+								</array>
+								<key>naicnum</key>
+								<string>11293</string>
+								<key>title</key>
+								<string>Fur-Bearing Animal and Rabbit Production</string>
+							</dict>
+							<dict>
+								<key>children</key>
+								<array>
+									<dict>
+										<key>children</key>
+										<array/>
+										<key>naicnum</key>
+										<string>112990</string>
+										<key>title</key>
+										<string>All Other Animal Production</string>
+									</dict>
+								</array>
+								<key>naicnum</key>
+								<string>11299</string>
+								<key>title</key>
+								<string>All Other Animal Production</string>
+							</dict>
+						</array>
+						<key>naicnum</key>
+						<string>1129</string>
+						<key>title</key>
+						<string>Other Animal Production</string>
+					</dict>
+				</array>
+				<key>naicnum</key>
+				<string>112</string>
+				<key>title</key>
+				<string>Animal Production</string>
+			</dict>
+			<dict>
+				<key>children</key>
+				<array>
+					<dict>
+						<key>children</key>
+						<array>
+							<dict>
+								<key>children</key>
+								<array>
+									<dict>
+										<key>children</key>
+										<array/>
+										<key>naicnum</key>
+										<string>113110</string>
+										<key>title</key>
+										<string>Timber Tract Operations</string>
+									</dict>
+								</array>
+								<key>naicnum</key>
+								<string>11311</string>
+								<key>title</key>
+								<string>Timber Tract Operations</string>
+							</dict>
+						</array>
+						<key>naicnum</key>
+						<string>1131</string>
+						<key>title</key>
+						<string>Timber Tract Operations</string>
+					</dict>
+					<dict>
+						<key>children</key>
+						<array>
+							<dict>
+								<key>children</key>
+								<array>
+									<dict>
+										<key>children</key>
+										<array/>
+										<key>naicnum</key>
+										<string>113210</string>
+										<key>title</key>
+										<string>Forest Nurseries and Gathering of Forest Products</string>
+									</dict>
+								</array>
+								<key>naicnum</key>
+								<string>11321</string>
+								<key>title</key>
+								<string>Forest Nurseries and Gathering of Forest Products</string>
+							</dict>
+						</array>
+						<key>naicnum</key>
+						<string>1132</string>
+						<key>title</key>
+						<string>Forest Nurseries and Gathering of Forest Products</string>
+					</dict>
+					<dict>
+						<key>children</key>
+						<array>
+							<dict>
+								<key>children</key>
+								<array>
+									<dict>
+										<key>children</key>
+										<array/>
+										<key>naicnum</key>
+										<string>113310</string>
+										<key>title</key>
+										<string>Logging</string>
+									</dict>
+								</array>
+								<key>naicnum</key>
+								<string>11331</string>
+								<key>title</key>
+								<string>Logging</string>
+							</dict>
+						</array>
+						<key>naicnum</key>
+						<string>1133</string>
+						<key>title</key>
+						<string>Logging</string>
+					</dict>
+				</array>
+				<key>naicnum</key>
+				<string>113</string>
+				<key>title</key>
+				<string>Forestry and Logging</string>
+			</dict>
+			<dict>
+				<key>children</key>
+				<array>
+					<dict>
+						<key>children</key>
+						<array>
+							<dict>
+								<key>children</key>
+								<array>
+									<dict>
+										<key>children</key>
+										<array/>
+										<key>naicnum</key>
+										<string>114111</string>
+										<key>title</key>
+										<string>Finfish Fishing</string>
+									</dict>
+									<dict>
+										<key>children</key>
+										<array/>
+										<key>naicnum</key>
+										<string>114112</string>
+										<key>title</key>
+										<string>Shellfish Fishing</string>
+									</dict>
+									<dict>
+										<key>children</key>
+										<array/>
+										<key>naicnum</key>
+										<string>114119</string>
+										<key>title</key>
+										<string>Other Marine Fishing</string>
+									</dict>
+								</array>
+								<key>naicnum</key>
+								<string>11411</string>
+								<key>title</key>
+								<string>Fishing</string>
+							</dict>
+						</array>
+						<key>naicnum</key>
+						<string>1141</string>
+						<key>title</key>
+						<string>Fishing</string>
+					</dict>
+					<dict>
+						<key>children</key>
+						<array>
+							<dict>
+								<key>children</key>
+								<array>
+									<dict>
+										<key>children</key>
+										<array/>
+										<key>naicnum</key>
+										<string>114210</string>
+										<key>title</key>
+										<string>Hunting and Trapping</string>
+									</dict>
+								</array>
+								<key>naicnum</key>
+								<string>11421</string>
+								<key>title</key>
+								<string>Hunting and Trapping</string>
+							</dict>
+						</array>
+						<key>naicnum</key>
+						<string>1142</string>
+						<key>title</key>
+						<string>Hunting and Trapping</string>
+					</dict>
+				</array>
+				<key>naicnum</key>
+				<string>114</string>
+				<key>title</key>
+				<string>Fishing, Hunting and Trapping</string>
+			</dict>
+			<dict>
+				<key>children</key>
+				<array>
+					<dict>
+						<key>children</key>
+						<array>
+							<dict>
+								<key>children</key>
+								<array>
+									<dict>
+										<key>children</key>
+										<array/>
+										<key>naicnum</key>
+										<string>115111</string>
+										<key>title</key>
+										<string>Cotton Ginning</string>
+									</dict>
+									<dict>
+										<key>children</key>
+										<array/>
+										<key>naicnum</key>
+										<string>115112</string>
+										<key>title</key>
+										<string>Soil Preparation, Planting, and Cultivating</string>
+									</dict>
+									<dict>
+										<key>children</key>
+										<array/>
+										<key>naicnum</key>
+										<string>115113</string>
+										<key>title</key>
+										<string>Crop Harvesting, Primarily by Machine</string>
+									</dict>
+									<dict>
+										<key>children</key>
+										<array/>
+										<key>naicnum</key>
+										<string>115114</string>
+										<key>title</key>
+										<string>Postharvest Crop Activities (except Cotton Ginning)</string>
+									</dict>
+									<dict>
+										<key>children</key>
+										<array/>
+										<key>naicnum</key>
+										<string>115115</string>
+										<key>title</key>
+										<string>Farm Labor Contractors and Crew Leaders</string>
+									</dict>
+									<dict>
+										<key>children</key>
+										<array/>
+										<key>naicnum</key>
+										<string>115116</string>
+										<key>title</key>
+										<string>Farm Management Services</string>
+									</dict>
+								</array>
+								<key>naicnum</key>
+								<string>11511</string>
+								<key>title</key>
+								<string>Support Activities for Crop Production</string>
+							</dict>
+						</array>
+						<key>naicnum</key>
+						<string>1151</string>
+						<key>title</key>
+						<string>Support Activities for Crop Production</string>
+					</dict>
+					<dict>
+						<key>children</key>
+						<array>
+							<dict>
+								<key>children</key>
+								<array>
+									<dict>
+										<key>children</key>
+										<array/>
+										<key>naicnum</key>
+										<string>115210</string>
+										<key>title</key>
+										<string>Support Activities for Animal Production</string>
+									</dict>
+								</array>
+								<key>naicnum</key>
+								<string>11521</string>
+								<key>title</key>
+								<string>Support Activities for Animal Production</string>
+							</dict>
+						</array>
+						<key>naicnum</key>
+						<string>1152</string>
+						<key>title</key>
+						<string>Support Activities for Animal Production</string>
+					</dict>
+					<dict>
+						<key>children</key>
+						<array>
+							<dict>
+								<key>children</key>
+								<array>
+									<dict>
+										<key>children</key>
+										<array/>
+										<key>naicnum</key>
+										<string>115310</string>
+										<key>title</key>
+										<string>Support Activities for Forestry</string>
+									</dict>
+								</array>
+								<key>naicnum</key>
+								<string>11531</string>
+								<key>title</key>
+								<string>Support Activities for Forestry</string>
+							</dict>
+						</array>
+						<key>naicnum</key>
+						<string>1153</string>
+						<key>title</key>
+						<string>Support Activities for Forestry</string>
+					</dict>
+				</array>
+				<key>naicnum</key>
+				<string>115</string>
+				<key>title</key>
+				<string>Support Activities for Agriculture and Forestry</string>
+			</dict>
+		</array>
+		<key>title</key>
+		<string>Agriculture, Forestry, Fishing and Hunting</string>
+	</dict>
+	<key>21</key>
+	<dict>
+		<key>children</key>
+		<array>
+			<dict>
+				<key>children</key>
+				<array>
+					<dict>
+						<key>children</key>
+						<array>
+							<dict>
+								<key>children</key>
+								<array>
+									<dict>
+										<key>children</key>
+										<array/>
+										<key>naicnum</key>
+										<string>211111</string>
+										<key>title</key>
+										<string>Crude Petroleum and Natural Gas Extraction</string>
+									</dict>
+									<dict>
+										<key>children</key>
+										<array/>
+										<key>naicnum</key>
+										<string>211112</string>
+										<key>title</key>
+										<string>Natural Gas Liquid Extraction</string>
+									</dict>
+								</array>
+								<key>naicnum</key>
+								<string>21111</string>
+								<key>title</key>
+								<string>Oil and Gas Extraction</string>
+							</dict>
+						</array>
+						<key>naicnum</key>
+						<string>2111</string>
+						<key>title</key>
+						<string>Oil and Gas Extraction</string>
+					</dict>
+				</array>
+				<key>naicnum</key>
+				<string>211</string>
+				<key>title</key>
+				<string>Oil and Gas Extraction</string>
+			</dict>
+			<dict>
+				<key>children</key>
+				<array>
+					<dict>
+						<key>children</key>
+						<array>
+							<dict>
+								<key>children</key>
+								<array>
+									<dict>
+										<key>children</key>
+										<array/>
+										<key>naicnum</key>
+										<string>212111</string>
+										<key>title</key>
+										<string>Bituminous Coal and Lignite Surface Mining</string>
+									</dict>
+									<dict>
+										<key>children</key>
+										<array/>
+										<key>naicnum</key>
+										<string>212112</string>
+										<key>title</key>
+										<string>Bituminous Coal Underground Mining</string>
+									</dict>
+									<dict>
+										<key>children</key>
+										<array/>
+										<key>naicnum</key>
+										<string>212113</string>
+										<key>title</key>
+										<string>Anthracite Mining</string>
+									</dict>
+								</array>
+								<key>naicnum</key>
+								<string>21211</string>
+								<key>title</key>
+								<string>Coal Mining</string>
+							</dict>
+						</array>
+						<key>naicnum</key>
+						<string>2121</string>
+						<key>title</key>
+						<string>Coal Mining</string>
+					</dict>
+					<dict>
+						<key>children</key>
+						<array>
+							<dict>
+								<key>children</key>
+								<array>
+									<dict>
+										<key>children</key>
+										<array/>
+										<key>naicnum</key>
+										<string>212210</string>
+										<key>title</key>
+										<string>Iron Ore Mining</string>
+									</dict>
+								</array>
+								<key>naicnum</key>
+								<string>21221</string>
+								<key>title</key>
+								<string>Iron Ore Mining</string>
+							</dict>
+							<dict>
+								<key>children</key>
+								<array>
+									<dict>
+										<key>children</key>
+										<array/>
+										<key>naicnum</key>
+										<string>212221</string>
+										<key>title</key>
+										<string>Gold Ore Mining</string>
+									</dict>
+									<dict>
+										<key>children</key>
+										<array/>
+										<key>naicnum</key>
+										<string>212222</string>
+										<key>title</key>
+										<string>Silver Ore Mining</string>
+									</dict>
+								</array>
+								<key>naicnum</key>
+								<string>21222</string>
+								<key>title</key>
+								<string>Gold Ore and Silver Ore Mining</string>
+							</dict>
+							<dict>
+								<key>children</key>
+								<array>
+									<dict>
+										<key>children</key>
+										<array/>
+										<key>naicnum</key>
+										<string>212231</string>
+										<key>title</key>
+										<string>Lead Ore and Zinc Ore Mining</string>
+									</dict>
+									<dict>
+										<key>children</key>
+										<array/>
+										<key>naicnum</key>
+										<string>212234</string>
+										<key>title</key>
+										<string>Copper Ore and Nickel Ore Mining</string>
+									</dict>
+								</array>
+								<key>naicnum</key>
+								<string>21223</string>
+								<key>title</key>
+								<string>Copper, Nickel, Lead, and Zinc Mining</string>
+							</dict>
+							<dict>
+								<key>children</key>
+								<array>
+									<dict>
+										<key>children</key>
+										<array/>
+										<key>naicnum</key>
+										<string>212291</string>
+										<key>title</key>
+										<string>Uranium-Radium-Vanadium Ore Mining</string>
+									</dict>
+									<dict>
+										<key>children</key>
+										<array/>
+										<key>naicnum</key>
+										<string>212299</string>
+										<key>title</key>
+										<string>All Other Metal Ore Mining</string>
+									</dict>
+								</array>
+								<key>naicnum</key>
+								<string>21229</string>
+								<key>title</key>
+								<string>Other Metal Ore Mining</string>
+							</dict>
+						</array>
+						<key>naicnum</key>
+						<string>2122</string>
+						<key>title</key>
+						<string>Metal Ore Mining</string>
+					</dict>
+					<dict>
+						<key>children</key>
+						<array>
+							<dict>
+								<key>children</key>
+								<array>
+									<dict>
+										<key>children</key>
+										<array/>
+										<key>naicnum</key>
+										<string>212311</string>
+										<key>title</key>
+										<string>Dimension Stone Mining and Quarrying</string>
+									</dict>
+									<dict>
+										<key>children</key>
+										<array/>
+										<key>naicnum</key>
+										<string>212312</string>
+										<key>title</key>
+										<string>Crushed and Broken Limestone Mining and Quarrying</string>
+									</dict>
+									<dict>
+										<key>children</key>
+										<array/>
+										<key>naicnum</key>
+										<string>212313</string>
+										<key>title</key>
+										<string>Crushed and Broken Granite Mining and Quarrying</string>
+									</dict>
+									<dict>
+										<key>children</key>
+										<array/>
+										<key>naicnum</key>
+										<string>212319</string>
+										<key>title</key>
+										<string>Other Crushed and Broken Stone Mining and Quarrying</string>
+									</dict>
+								</array>
+								<key>naicnum</key>
+								<string>21231</string>
+								<key>title</key>
+								<string>Stone Mining and Quarrying</string>
+							</dict>
+							<dict>
+								<key>children</key>
+								<array>
+									<dict>
+										<key>children</key>
+										<array/>
+										<key>naicnum</key>
+										<string>212321</string>
+										<key>title</key>
+										<string>Construction Sand and Gravel Mining</string>
+									</dict>
+									<dict>
+										<key>children</key>
+										<array/>
+										<key>naicnum</key>
+										<string>212322</string>
+										<key>title</key>
+										<string>Industrial Sand Mining</string>
+									</dict>
+									<dict>
+										<key>children</key>
+										<array/>
+										<key>naicnum</key>
+										<string>212324</string>
+										<key>title</key>
+										<string>Kaolin and Ball Clay Mining</string>
+									</dict>
+									<dict>
+										<key>children</key>
+										<array/>
+										<key>naicnum</key>
+										<string>212325</string>
+										<key>title</key>
+										<string>Clay and Ceramic and Refractory Minerals Mining</string>
+									</dict>
+								</array>
+								<key>naicnum</key>
+								<string>21232</string>
+								<key>title</key>
+								<string>Sand, Gravel, Clay, and Ceramic and Refractory Minerals Mining and Quarrying</string>
+							</dict>
+							<dict>
+								<key>children</key>
+								<array>
+									<dict>
+										<key>children</key>
+										<array/>
+										<key>naicnum</key>
+										<string>212391</string>
+										<key>title</key>
+										<string>Potash, Soda, and Borate Mineral Mining</string>
+									</dict>
+									<dict>
+										<key>children</key>
+										<array/>
+										<key>naicnum</key>
+										<string>212392</string>
+										<key>title</key>
+										<string>Phosphate Rock Mining</string>
+									</dict>
+									<dict>
+										<key>children</key>
+										<array/>
+										<key>naicnum</key>
+										<string>212393</string>
+										<key>title</key>
+										<string>Other Chemical and Fertilizer Mineral Mining</string>
+									</dict>
+									<dict>
+										<key>children</key>
+										<array/>
+										<key>naicnum</key>
+										<string>212399</string>
+										<key>title</key>
+										<string>All Other Nonmetallic Mineral Mining</string>
+									</dict>
+								</array>
+								<key>naicnum</key>
+								<string>21239</string>
+								<key>title</key>
+								<string>Other Nonmetallic Mineral Mining and Quarrying</string>
+							</dict>
+						</array>
+						<key>naicnum</key>
+						<string>2123</string>
+						<key>title</key>
+						<string>Nonmetallic Mineral Mining and Quarrying</string>
+					</dict>
+				</array>
+				<key>naicnum</key>
+				<string>212</string>
+				<key>title</key>
+				<string>Mining (except Oil and Gas)</string>
+			</dict>
+			<dict>
+				<key>children</key>
+				<array>
+					<dict>
+						<key>children</key>
+						<array>
+							<dict>
+								<key>children</key>
+								<array>
+									<dict>
+										<key>children</key>
+										<array/>
+										<key>naicnum</key>
+										<string>213111</string>
+										<key>title</key>
+										<string>Drilling Oil and Gas Wells</string>
+									</dict>
+									<dict>
+										<key>children</key>
+										<array/>
+										<key>naicnum</key>
+										<string>213112</string>
+										<key>title</key>
+										<string>Support Activities for Oil and Gas Operations</string>
+									</dict>
+									<dict>
+										<key>children</key>
+										<array/>
+										<key>naicnum</key>
+										<string>213113</string>
+										<key>title</key>
+										<string>Support Activities for Coal Mining</string>
+									</dict>
+									<dict>
+										<key>children</key>
+										<array/>
+										<key>naicnum</key>
+										<string>213114</string>
+										<key>title</key>
+										<string>Support Activities for Metal Mining</string>
+									</dict>
+									<dict>
+										<key>children</key>
+										<array/>
+										<key>naicnum</key>
+										<string>213115</string>
+										<key>title</key>
+										<string>Support Activities for Nonmetallic Minerals (except Fuels) Mining</string>
+									</dict>
+								</array>
+								<key>naicnum</key>
+								<string>21311</string>
+								<key>title</key>
+								<string>Support Activities for Mining</string>
+							</dict>
+						</array>
+						<key>naicnum</key>
+						<string>2131</string>
+						<key>title</key>
+						<string>Support Activities for Mining</string>
+					</dict>
+				</array>
+				<key>naicnum</key>
+				<string>213</string>
+				<key>title</key>
+				<string>Support Activities for Mining</string>
+			</dict>
+		</array>
+		<key>title</key>
+		<string>Mining, Quarrying, and Oil and Gas Extraction</string>
+	</dict>
+</dict>
+</plist>
